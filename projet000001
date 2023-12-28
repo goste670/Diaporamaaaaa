@@ -1,0 +1,35 @@
+    Diapositive 1: MongoDB - NoSQL
+    Caractéristiques de MongoDB
+
+        Modèle de données: Document-store
+        Schéma flexible
+        Évolutivité horizontale facile
+        Utilisation du langage de requête JSON (Query Language)
+
+    Diapositive 2: SQL
+    Caractéristiques de SQL
+
+        Modèle de données: Basé sur des tables relationnelles
+        Schéma fixe avec structure définie
+        Évolutivité verticale
+        Utilisation du langage SQL pour les requêtes
+
+    Diapositive 3: Comparaison
+    Points de comparaison
+
+        Structure des données: MongoDB utilise un modèle de données de type document, tandis que SQL utilise des tables relationnelles.
+        Flexibilité du schéma: MongoDB offre un schéma flexible, adapté aux données non structurées. SQL a un schéma fixe qui impose une structure définie.
+        Évolutivité: MongoDB permet une évolutivité horizontale plus facile, tandis que SQL se tourne généralement vers l'évolutivité verticale.
+        Langage de requête: MongoDB utilise un langage de requête JSON, alors que SQL utilise le langage SQL.
+
+    Diapositive 4: Comparaison (Suite)
+    Points de comparaison (Suite)
+
+        Performance: La performance dépend du contexte d'utilisation, mais MongoDB peut être plus rapide pour certaines opérations grâce à sa gestion interne des données.
+        Scénarios d'utilisation: MongoDB est adapté aux données non structurées et changeantes, tandis que SQL excelle dans les environnements où la cohérence et l'intégrité des données sont primordiales.
+
+    Diapositive 5: Conclusion
+    Résumé de la comparaison
+
+        Récapitulation des différences majeures entre MongoDB et SQL.
+        Aucun système n'est universellement meilleur; le choix dépend des besoins spécifiques du projet.
